@@ -27,7 +27,7 @@ class Solution {
         {
             return;
         }
-        if(level > fin_level && root.left==null && root.right==null)
+        if(level > fin_level )
         {
             fin_level = level;
             sum = 0;
