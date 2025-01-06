@@ -34,7 +34,7 @@ class Solution {
         }
         helper(root.left , level + 1);
         helper(root.right , level + 1);
-        if(level == fin_level && root.left==null && root.right==null)
+        if(level == fin_level)
         {
             sum+=root.val;
         }
