@@ -34,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0001-two-sum) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
