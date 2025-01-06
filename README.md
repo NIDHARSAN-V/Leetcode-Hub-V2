@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2384-root-equals-sum-of-children) |
 ## Matrix
 |  |
