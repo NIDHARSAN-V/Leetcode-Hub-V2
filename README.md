@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0416-partition-equal-subset-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2384-root-equals-sum-of-children) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
