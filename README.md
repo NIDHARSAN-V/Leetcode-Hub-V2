@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0416-partition-equal-subset-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Backtracking
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0070-climbing-stairs) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0059-spiral-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
