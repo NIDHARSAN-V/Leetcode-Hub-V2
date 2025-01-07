@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0070-climbing-stairs) |
 ## Sliding Window
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
