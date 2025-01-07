@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Tree
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
 | [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
