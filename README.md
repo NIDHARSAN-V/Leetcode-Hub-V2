@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0416-partition-equal-subset-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Backtracking
 |  |
 | ------- |
