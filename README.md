@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0455-assign-cookies) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -151,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
