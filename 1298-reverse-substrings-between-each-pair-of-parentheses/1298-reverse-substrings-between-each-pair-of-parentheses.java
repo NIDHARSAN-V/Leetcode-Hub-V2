@@ -1,47 +1,20 @@
 class Solution {
     public String reverseParentheses(String s) {
-        Stack<String> stack = new Stack<>();
-        StringBuilder sb = new StringBuilder();
-        int i =0;
-        
+        Deque<Integer> indStack = new LinkedList<>();
+        StringBuilder res = new StringBuilder();
 
-        while(i < s.length())
-        {
-            char ch = s.charAt(i);
-            if(ch=='(')
-            {
-                stack.push(String.valueOf(ch));
+        for (char char_s : s.toCharArray()) {
+            if (char_s == '(') {
+                indStack.push(res.length());
+            } else if (char_s == ')') {
+                int startInd = indStack.pop();
+                String reversed = new StringBuilder(res.substring(startInd)).reverse().toString();
+                res.replace(startInd, res.length(), reversed);
+            } else {
+                res.append(char_s);
             }
-            else if(ch==')')
-            {
-                 
-                StringBuilder temp = new StringBuilder();
-                while (!stack.isEmpty() && !stack.peek().equals("(")) {
-                   temp.append(new StringBuilder(stack.pop()).reverse());
-                }
-
-               
-                if (!stack.isEmpty() && stack.peek().equals("(")) {
-                    stack.pop();
-                }
-                // System.out.println(temp.toString());
-
-                stack.push(temp.toString());
-            }
-            else
-            {
-                stack.push(String.valueOf(ch));
-            }
-            i++;
         }
-        System.out.print(stack);
-      StringBuilder result = new StringBuilder();
-while (!stack.isEmpty()) {
-    result.insert(0, stack.pop().toString());
-}
-return result.toString();
 
-     
-
+        return res.toString();
     }
 }
