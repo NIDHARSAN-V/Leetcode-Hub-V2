@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0059-spiral-matrix-ii) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
