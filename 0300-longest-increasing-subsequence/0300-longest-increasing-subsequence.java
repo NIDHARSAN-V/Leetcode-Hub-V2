@@ -1,31 +1,22 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int[][] dp = new int[nums.length][nums.length + 1];
-        for(int[] d : dp)
-        {
-            Arrays.fill(d ,-1);
+        int t[]=new int[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            t[i] = 1;
         }
-        return helper(nums , 0 , -1 ,dp);
-
-    }
-    private int helper(int[] nums , int i , int prev , int[][] dp)
-    {
-        if(i==nums.length)
-        {
-            return 0;
+        for(int i=1;i<nums.length;i++){
+            for(int j=0;j<i;j++){
+                if(nums[i]>nums[j]){
+                    t[i] = Math.max(t[i], t[j] + 1); 
+                }
+            }
         }
-
-        if(dp[i][prev + 1]!=-1)
-        { 
-           return dp[i][prev+1];
+        int max=0;
+        for(int i=0;i<t.length;i++){
+            if(t[i]>t[max]){
+                max=i;
+            }
         }
-
-        dp[i][prev+1] = 0 +  helper(nums , i + 1 , prev , dp);
-        if(prev == -1 || nums[i] > nums[prev])
-        {
-        dp[i][prev+1]= Math.max(dp[i][prev+1] , 1 + helper(nums , i + 1 , i , dp));
-        }
-        return dp[i][prev+1];
+        return t[max];
     }
 }
-//prev + 1 because of the -1 value of prev
