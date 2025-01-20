@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0322-coin-change) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0322-coin-change) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0059-spiral-matrix-ii) |
+| [0221-maximal-square](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0407-trapping-rain-water-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
 ## Simulation
