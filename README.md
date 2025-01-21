@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0059-spiral-matrix-ii) |
 | [0221-maximal-square](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0221-maximal-square) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0368-largest-divisible-subset) |
 ## Sliding Window
