@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0120-triangle) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
 | [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0437-path-sum-iii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0407-trapping-rain-water-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
+| [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
 | [0474-ones-and-zeroes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0474-ones-and-zeroes) |
