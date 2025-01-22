@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1129-longest-string-chain) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2145-grid-game](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2145-grid-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1236-n-th-tribonacci-number) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Backtracking
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0407-trapping-rain-water-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [2145-grid-game](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2145-grid-game) |
 ## Simulation
 |  |
