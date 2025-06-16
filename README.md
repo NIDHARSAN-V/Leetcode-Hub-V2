@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
+| [1160-letter-tile-possibilities](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1160-letter-tile-possibilities) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1129-longest-string-chain) |
+| [1160-letter-tile-possibilities](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1160-letter-tile-possibilities) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2226-rings-and-rods) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1129-longest-string-chain) |
+| [1160-letter-tile-possibilities](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1160-letter-tile-possibilities) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3455-minimum-length-of-string-after-operations) |
