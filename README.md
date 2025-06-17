@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
