@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0221-maximal-square) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0131-palindrome-partitioning) |
 | [0474-ones-and-zeroes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0583-delete-operation-for-two-strings) |
 | [0886-score-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0886-score-of-parentheses) |
