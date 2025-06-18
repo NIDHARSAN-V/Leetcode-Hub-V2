@@ -345,5 +345,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0024-swap-nodes-in-pairs) |
 | [2050-count-good-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2050-count-good-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
