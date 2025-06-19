@@ -1,23 +1,25 @@
 class Solution {
     public int[] decompressRLElist(int[] nums) {
-        List<Integer> list = new ArrayList<>();
-        for(int i =0 ; i<nums.length ;i+=2)
-        {
-            int f = nums[i];
-            int s = nums[i+1];
+        // First, compute the total size of the output
+        int size = 0;
+        for (int i = 0; i < nums.length; i += 2) {
+            size += nums[i]; // freq
+        }
 
-            for(int j = 0 ; j<f ; j++)
-            {
-                list.add(s);
+        // Allocate output array with exact size
+        int[] result = new int[size];
+        int index = 0;
+
+        // Fill output directly
+        for (int i = 0; i < nums.length; i += 2) {
+            int freq = nums[i];
+            int val = nums[i + 1];
+
+            for (int j = 0; j < freq; j++) {
+                result[index++] = val;
             }
         }
-         
-        int[] arr = new int[list.size()];
-        for (int i = 0; i < list.size(); i++) {
-            arr[i] = list.get(i);
-        }
-        return arr;
-    }
 
-    
+        return result;
+    }
 }
