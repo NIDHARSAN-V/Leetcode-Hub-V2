@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-number-of-even-and-odd-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2792-neighboring-bitwise-xor) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0368-largest-divisible-subset) |
 | [1236-n-th-tribonacci-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1236-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2050-count-good-numbers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
