@@ -3,11 +3,11 @@ class Solution {
     int bottomLeftValue;
 
     public int findBottomLeftValue(TreeNode root) {
-        dfs(root, 0, 0); 
+        dfs(root, 0); 
         return bottomLeftValue;
     }
 
-    private void dfs(TreeNode node, int depth, int dir) {
+    private void dfs(TreeNode node, int depth) {
         if (node == null) return;
 
         
@@ -17,7 +17,7 @@ class Solution {
         }
 
         
-        dfs(node.left, depth + 1, 0);
-        dfs(node.right, depth + 1, 1);
+        dfs(node.left, depth + 1);
+        dfs(node.right, depth + 1);
     }
 }
