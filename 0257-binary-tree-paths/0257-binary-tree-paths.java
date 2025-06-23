@@ -15,7 +15,7 @@ class Solution {
         
          if(root ==null)
          {
-            return ;
+            return;
          }
         int len = sb.length();
         sb.append(root.val);
