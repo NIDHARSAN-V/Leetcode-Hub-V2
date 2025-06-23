@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2226-rings-and-rods) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Stack
 |  |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0190-reverse-bits) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
