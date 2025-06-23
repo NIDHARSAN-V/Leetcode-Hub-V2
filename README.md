@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0437-path-sum-iii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0437-path-sum-iii) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0437-path-sum-iii) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0257-binary-tree-paths) |
 | [0474-ones-and-zeroes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0599-minimum-index-sum-of-two-lists) |
