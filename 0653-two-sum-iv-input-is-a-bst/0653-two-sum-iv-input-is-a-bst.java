@@ -29,12 +29,12 @@ class Solution {
             return false;
         }
 
-        if(set.contains(k   -  root.val))
+        if(set.contains(root.val))
         {
             return true;
         }
 
-        set.add(root.val);
+        set.add(k - root.val);
         
 
         return (helper(root.left , k , set ) || helper(root.right , k ,set ));
