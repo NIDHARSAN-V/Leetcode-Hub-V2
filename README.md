@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0742-to-lower-case](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0742-to-lower-case) |
 | [0857-positions-of-large-groups](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0857-positions-of-large-groups) |
 | [0886-score-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0886-score-of-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1045-check-if-word-is-valid-after-substitutions) |
