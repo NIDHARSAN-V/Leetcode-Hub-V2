@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0554-brick-wall](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0560-subarray-sum-equals-k) |
 | [2145-grid-game](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2145-grid-game) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Recursion
