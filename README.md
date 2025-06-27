@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1236-n-th-tribonacci-number) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Backtracking
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0070-climbing-stairs) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1236-n-th-tribonacci-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1236-n-th-tribonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Bitmask
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
 |  |
 | ------- |
