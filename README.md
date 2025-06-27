@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2076-sum-of-digits-of-string-after-convert) |
