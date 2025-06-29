@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1254-deepest-leaves-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2384-root-equals-sum-of-children) |
 ## Matrix
 |  |
