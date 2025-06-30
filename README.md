@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2145-grid-game) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Database
 |  |
