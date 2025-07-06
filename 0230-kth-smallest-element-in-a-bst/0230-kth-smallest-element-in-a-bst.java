@@ -2,7 +2,7 @@ class Solution {
     public int kthSmallest(TreeNode root, int k) {
         return inorder(root, new int[]{k});
     }
-
+  /// pass by value so int[] k
     private int inorder(TreeNode node, int[] k) {
         if (node == null) return -1;
 
@@ -10,11 +10,11 @@ class Solution {
         int left = inorder(node.left, k);
         if (k[0] == 0) return left;  
 
-        // Process current node
-        k[0]--;  // Decrease k when a node is visited
-        if (k[0] == 0) return node.val;  // This is the kth node
+        
+        k[0]--;  
+        if (k[0] == 0) return node.val; 
 
-        // Search in the right subtree
+        
         return inorder(node.right, k);
     }
 }
