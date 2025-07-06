@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0113-path-sum-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0113-path-sum-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0300-longest-increasing-subsequence) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0739-daily-temperatures) |
@@ -523,4 +527,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0619-biggest-single-number) |
 | [1179-game-play-analysis-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1179-game-play-analysis-i) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
