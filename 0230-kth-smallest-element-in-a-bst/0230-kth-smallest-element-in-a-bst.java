@@ -2,7 +2,7 @@ class Solution {
     public int kthSmallest(TreeNode root, int k) {
         return inorder(root, new int[]{k});
     }
-  /// pass by value so int[] k
+
     private int inorder(TreeNode node, int[] k) {
         if (node == null) return -1;
 
