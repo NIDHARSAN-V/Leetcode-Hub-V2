@@ -15,6 +15,10 @@ class Solution {
         if (k[0] == 0) return node.val; 
 
         
-        return inorder(node.right, k);
+        int right =  inorder(node.right, k);
+        if (k[0] == 0) return right; 
+
+        return 0;
+
     }
 }
