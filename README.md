@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
+| [0838-design-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0838-design-linked-list) |
 ## Iterator
 |  |
 | ------- |
