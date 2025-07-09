@@ -1,33 +1,49 @@
+import java.util.*;
+
 class Solution {
     public TreeNode addOneRow(TreeNode root, int val, int depth) {
-        // Special case: insert new root
+        // Special case: new row becomes the new root
         if (depth == 1) {
             TreeNode newRoot = new TreeNode(val);
             newRoot.left = root;
             return newRoot;
         }
 
-        dfs(root, null, val, depth - 1);
-        return root;
-    }
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        int currentDepth = 1;
 
-    public void dfs(TreeNode root, TreeNode prev, int val, int depth) {
-        if (root == null) return;
+        // Traverse level by level until reaching depth - 1
+        while (!queue.isEmpty()) {
+            int size = queue.size();
 
-        // First go left and right (post-order traversal)
-        dfs(root.left, root, val, depth - 1);
-        dfs(root.right, root, val, depth - 1);
+            if (currentDepth == depth - 1) {
+                // Add new nodes to each node at this level
+                for (int i = 0; i < size; i++) {
+                    TreeNode current = queue.poll();
 
-        // Now process the current node
-        if (depth == 1) {
-            TreeNode nl = new TreeNode(val);
-            TreeNode nr = new TreeNode(val);
+                    TreeNode tempLeft = current.left;
+                    TreeNode tempRight = current.right;
 
-            nl.left = root.left;
-            root.left = nl;
+                    current.left = new TreeNode(val);
+                    current.left.left = tempLeft;
 
-            nr.right = root.right;
-            root.right = nr;
+                    current.right = new TreeNode(val);
+                    current.right.right = tempRight;
+                }
+                break; // We added the row, no need to go deeper
+            }
+
+            // Continue to the next level
+            for (int i = 0; i < size; i++) {
+                TreeNode current = queue.poll();
+                if (current.left != null) queue.offer(current.left);
+                if (current.right != null) queue.offer(current.right);
+            }
+
+            currentDepth++;
         }
+
+        return root;
     }
 }
