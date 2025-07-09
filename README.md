@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0120-triangle) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0113-path-sum-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0113-path-sum-ii) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0171-excel-sheet-column-number) |
 | [0368-largest-divisible-subset](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0368-largest-divisible-subset) |
 | [1236-n-th-tribonacci-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1236-n-th-tribonacci-number) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0230-kth-smallest-element-in-a-bst) |
