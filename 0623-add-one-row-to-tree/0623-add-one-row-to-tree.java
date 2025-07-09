@@ -1,61 +1,33 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     public TreeNode addOneRow(TreeNode root, int val, int depth) {
+        // Special case: insert new root
         if (depth == 1) {
-    TreeNode newRoot = new TreeNode(val);
-    newRoot.left = root;
-    return newRoot;
-}
+            TreeNode newRoot = new TreeNode(val);
+            newRoot.left = root;
+            return newRoot;
+        }
 
-
-
-        dfs(root , val ,depth-1);
+        dfs(root, null, val, depth - 1);
         return root;
     }
 
-    public void dfs(TreeNode root , int val , int depth)
-    {
-        if(root == null)
-        {
-            return;
-        }
+    public void dfs(TreeNode root, TreeNode prev, int val, int depth) {
+        if (root == null) return;
 
-        if(depth==1)
-        {
+        // First go left and right (post-order traversal)
+        dfs(root.left, root, val, depth - 1);
+        dfs(root.right, root, val, depth - 1);
+
+        // Now process the current node
+        if (depth == 1) {
             TreeNode nl = new TreeNode(val);
             TreeNode nr = new TreeNode(val);
-            
-            TreeNode temp  = root.left;
+
+            nl.left = root.left;
             root.left = nl;
-            nl.left = temp;
 
-            temp  = root.right;
+            nr.right = root.right;
             root.right = nr;
-            nr.right = temp;
-
-            return;
-            
         }
-        else
-        {
-             dfs(root.left , val , depth-1);
-             dfs(root.right , val , depth-1);
-        }
-
-       return;
     }
 }
