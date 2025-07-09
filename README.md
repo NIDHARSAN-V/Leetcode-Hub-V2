@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0687-longest-univalue-path) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0733-flood-fill) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0623-add-one-row-to-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0687-longest-univalue-path) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
