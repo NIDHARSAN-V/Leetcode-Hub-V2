@@ -15,7 +15,7 @@ class Solution {
 
         node.left = null;
         current.right = node;
-        current = node;
+        current = current.right;
 
         inorder(node.right);
     }
