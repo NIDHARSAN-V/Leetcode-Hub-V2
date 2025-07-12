@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -639,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0380-insert-delete-getrandom-o1) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
