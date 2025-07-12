@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0841-shortest-distance-to-a-character) |
+| [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
 | [1105-uncrossed-lines](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1105-uncrossed-lines) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1121-partition-array-for-maximum-sum) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0190-reverse-bits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -604,4 +607,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
