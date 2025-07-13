@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
+| [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1105-uncrossed-lines](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1129-longest-string-chain) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
+| [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2145-grid-game](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2145-grid-game) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0523-continuous-subarray-sum) |
+| [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1236-n-th-tribonacci-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1236-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1129-longest-string-chain](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -648,4 +652,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
