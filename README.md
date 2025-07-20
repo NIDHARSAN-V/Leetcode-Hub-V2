@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0841-shortest-distance-to-a-character) |
 | [0857-positions-of-large-groups](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0857-positions-of-large-groups) |
 | [0886-score-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0886-score-of-parentheses) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0953-reverse-only-letters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1078-remove-outermost-parentheses) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0594-longest-harmonious-subsequence) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1160-letter-tile-possibilities) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1510-find-lucky-integer-in-an-array) |
