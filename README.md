@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0115-distinct-subsequences) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0394-decode-string) |
