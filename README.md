@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0908-middle-of-the-linked-list) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0838-design-linked-list) |
@@ -690,4 +693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
