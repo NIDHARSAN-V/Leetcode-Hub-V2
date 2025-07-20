@@ -17,11 +17,11 @@ class Solution {
     public void getCopy(TreeNode root,TreeNode target)
     {
         if(root==null)return;
+        getCopy(root.left,target);
         if(root.val==target.val)
         {
             output=root;
         }
-        getCopy(root.left,target);
         getCopy(root.right,target);
     }
 }
