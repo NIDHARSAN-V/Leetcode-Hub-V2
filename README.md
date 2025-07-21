@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0687-longest-univalue-path) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1254-deepest-leaves-sum) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0687-longest-univalue-path) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0933-increasing-order-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
