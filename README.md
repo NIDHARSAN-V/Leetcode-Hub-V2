@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2792-neighboring-bitwise-xor) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1610-xor-operation-in-an-array) |
 | [2050-count-good-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3321-type-of-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3321-type-of-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3321-type-of-triangle) |
 ## Binary Search Tree
 |  |
 | ------- |
