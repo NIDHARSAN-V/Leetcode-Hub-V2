@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1179-game-play-analysis-i) |
 | [1541-top-travellers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1625-group-sold-products-by-the-date) |
+| [1877-find-followers-count](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1877-find-followers-count) |
 ## Design
 |  |
 | ------- |
