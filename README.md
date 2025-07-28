@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2145-grid-game) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1160-letter-tile-possibilities) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-binary-gap](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0899-binary-gap) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1610-xor-operation-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Database
 |  |
