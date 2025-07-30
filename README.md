@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2792-neighboring-bitwise-xor) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
 |  |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Trie
 |  |
 | ------- |
