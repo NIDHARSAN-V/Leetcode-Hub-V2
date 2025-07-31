@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
+| [1542-consecutive-characters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1542-consecutive-characters) |
 | [1660-thousand-separator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1660-thousand-separator) |
 | [1764-maximum-repeating-substring](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1818-maximum-score-from-removing-substrings) |
