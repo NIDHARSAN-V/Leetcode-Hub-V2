@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0560-subarray-sum-equals-k) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0526-beautiful-arrangement) |
 | [0583-delete-operation-for-two-strings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1160-letter-tile-possibilities) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0476-number-complement) |
+| [0526-beautiful-arrangement](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0526-beautiful-arrangement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0861-flipping-an-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0861-flipping-an-image) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Hash Table
 |  |
