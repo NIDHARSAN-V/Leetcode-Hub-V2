@@ -1,32 +1,20 @@
 class Solution {
     public boolean reorderedPowerOf2(int n) {
-        char[] digits = String.valueOf(n).toCharArray();
-        return permuteAndCheck(digits, 0);
-    }
-
-    private boolean permuteAndCheck(char[] arr, int index) {
-        if (index == arr.length) {
-            if (arr[0] == '0') return false; 
-            int num = Integer.parseInt(new String(arr));
-            return isPowerOfTwo(num);
+        String target = digit(n);
+       for (int i = 0; i < 31; i++) { 
+            int power = 1 << i; 
+            if (digit(power).equals(target)) {
+                return true;
+            }
         }
-        
-        for (int i = index; i < arr.length; i++) {
-            swap(arr, i, index);
-            if (permuteAndCheck(arr, index + 1)) return true;
-            swap(arr, i, index); 
-        }
-        
         return false;
     }
 
-    private boolean isPowerOfTwo(int num) {
-        return (num > 0) && ((num & (num - 1)) == 0);
-    }
 
-    private void swap(char[] arr, int i, int j) {
-        char temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
+    private String digit(int n)
+    {
+        char[] ar = String.valueOf(n).toCharArray();
+        Arrays.sort(ar);
+        return new String(ar);
     }
 }
