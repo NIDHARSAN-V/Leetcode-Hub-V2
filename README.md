@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0190-reverse-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 ## Enumeration
