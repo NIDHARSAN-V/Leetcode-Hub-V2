@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0172-factorial-trailing-zeroes) |
+| [0223-rectangle-area](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0380-insert-delete-getrandom-o1) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0223-rectangle-area) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 ## Doubly-Linked List
 |  |
