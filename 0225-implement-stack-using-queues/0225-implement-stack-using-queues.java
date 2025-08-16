@@ -1,24 +1,24 @@
+
 class MyStack {
-    private Queue<Integer> q;
+    private Deque<Integer> dq;
+
     public MyStack() {
-        q= new LinkedList<>();
+        dq = new LinkedList<>();
     }
-    
+
     public void push(int x) {
-        q.add(x);
-        for(int i=0;i<q.size()-1;i++)
-        q.add(q.poll());
+        dq.addFirst(x);  
     }
-    
+
     public int pop() {
-        return q.poll();
+        return dq.removeFirst();
     }
-    
+
     public int top() {
-        return q.peek();
+        return dq.peekFirst(); 
     }
-    
+
     public boolean empty() {
-        return q.isEmpty();
+        return dq.isEmpty();
     }
 }
