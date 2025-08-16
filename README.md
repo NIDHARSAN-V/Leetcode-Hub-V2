@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0278-first-bad-version](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0300-longest-increasing-subsequence) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0538-convert-bst-to-greater-tree) |
@@ -850,4 +851,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0692-top-k-frequent-words) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
