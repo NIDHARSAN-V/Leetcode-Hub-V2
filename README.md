@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1720-crawler-log-folder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1542-consecutive-characters) |
 | [1660-thousand-separator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1720-crawler-log-folder) |
 | [1764-maximum-repeating-substring](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Counting
