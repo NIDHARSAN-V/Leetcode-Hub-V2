@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1105-uncrossed-lines](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1105-uncrossed-lines) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1129-longest-string-chain](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1129-longest-string-chain) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0917-boats-to-save-people](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0917-boats-to-save-people) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
