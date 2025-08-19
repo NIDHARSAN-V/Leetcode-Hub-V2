@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3396-valid-word) |
