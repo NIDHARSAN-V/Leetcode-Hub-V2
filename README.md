@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1628-count-submatrices-with-all-ones) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1720-crawler-log-folder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1628-count-submatrices-with-all-ones) |
 | [1764-maximum-repeating-substring](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1628-count-submatrices-with-all-ones) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2145-grid-game](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1628-count-submatrices-with-all-ones) |
 | [1666-make-the-string-great](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0739-daily-temperatures) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1628-count-submatrices-with-all-ones) |
 ## Prefix Sum
 |  |
 | ------- |
