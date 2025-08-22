@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1241-decompress-run-length-encoded-list) |
 | [1386-shift-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1386-shift-2d-grid) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1236-n-th-tribonacci-number) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1764-maximum-repeating-substring](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1764-maximum-repeating-substring) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1386-shift-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1386-shift-2d-grid) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2145-grid-game](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2145-grid-game) |
