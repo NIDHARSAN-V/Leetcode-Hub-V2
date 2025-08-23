@@ -4,67 +4,75 @@ class Solution {
         int n = grid[0].length;    
         int ans = Integer.MAX_VALUE;
 
-        // 1. horizontal split into 3 parts
-        for (int i = 0; i < m - 2; i++) {
-            for (int j = i + 1; j < m - 1; j++) {
-                int a = helper(grid, 0, i, 0, n - 1);
-                int b = helper(grid, i + 1, j, 0, n - 1);
-                int c = helper(grid, j + 1, m - 1, 0, n - 1);
+        int minr = m, maxr = -1, minc = n, maxc = -1;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1) {
+                    minr = Math.min(minr, i);
+                    maxr = Math.max(maxr, i);
+                    minc = Math.min(minc, j);
+                    maxc = Math.max(maxc, j);
+                }
+            }
+        }
+
+        if (maxr == -1) return 0;
+
+        for (int i = minr; i < maxr - 1; i++) {
+            for (int j = i + 1; j < maxr; j++) {
+                int a = helper(grid, minr, i, minc, maxc);
+                int b = helper(grid, i + 1, j, minc, maxc);
+                int c = helper(grid, j + 1, maxr, minc, maxc);
                 if (a > 0 && b > 0 && c > 0)
                     ans = Math.min(ans, a + b + c);
             }
         }
 
-        // 2. vertical split into 3 parts
-        for (int j = 0; j < n - 2; j++) {
-            for (int k = j + 1; k < n - 1; k++) {
-                int a = helper(grid, 0, m - 1, 0, j);
-                int b = helper(grid, 0, m - 1, j + 1, k);
-                int c = helper(grid, 0, m - 1, k + 1, n - 1);
+        for (int j = minc; j < maxc - 1; j++) {
+            for (int k = j + 1; k < maxc; k++) {
+                int a = helper(grid, minr, maxr, minc, j);
+                int b = helper(grid, minr, maxr, j + 1, k);
+                int c = helper(grid, minr, maxr, k + 1, maxc);
                 if (a > 0 && b > 0 && c > 0)
                     ans = Math.min(ans, a + b + c);
             }
         }
 
-        // 3. top horizontal + bottom vertical split
-        for (int i = 0; i < m - 1; i++) {       // row cut
-            for (int j = 0; j < n - 1; j++) {   // col cut
-                int a = helper(grid, 0, i, 0, n - 1);        
-                int b = helper(grid, i + 1, m - 1, 0, j);    
-                int c = helper(grid, i + 1, m - 1, j + 1, n - 1); 
+        for (int i = minr; i < maxr; i++) {
+            for (int j = minc; j < maxc; j++) {
+                int a = helper(grid, minr, i, minc, maxc);
+                int b = helper(grid, i + 1, maxr, minc, j);
+                int c = helper(grid, i + 1, maxr, j + 1, maxc);
                 if (a > 0 && b > 0 && c > 0)
                     ans = Math.min(ans, a + b + c);
             }
         }
 
-        // 4. bottom horizontal + top vertical split
-        for (int i = 0; i < m - 1; i++) {       // row cut
-            for (int j = 0; j < n - 1; j++) {   // col cut
-                int a = helper(grid, i + 1, m - 1, 0, n - 1); 
-                int b = helper(grid, 0, i, 0, j);             
-                int c = helper(grid, 0, i, j + 1, n - 1);     
+        for (int i = minr; i < maxr; i++) {
+            for (int j = minc; j < maxc; j++) {
+                int a = helper(grid, i + 1, maxr, minc, maxc);
+                int b = helper(grid, minr, i, minc, j);
+                int c = helper(grid, minr, i, j + 1, maxc);
                 if (a > 0 && b > 0 && c > 0)
                     ans = Math.min(ans, a + b + c);
             }
         }
 
-        // 5. left vertical + right horizontal split
-        for (int j = 0; j < n - 1; j++) {       // col cut
-            for (int i = 0; i < m - 1; i++) {   // row cut
-                int a = helper(grid, 0, m - 1, 0, j);         
-                int b = helper(grid, 0, i, j + 1, n - 1);     
-                int c = helper(grid, i + 1, m - 1, j + 1, n - 1); 
+        for (int j = minc; j < maxc; j++) {
+            for (int i = minr; i < maxr; i++) {
+                int a = helper(grid, minr, maxr, minc, j);
+                int b = helper(grid, minr, i, j + 1, maxc);
+                int c = helper(grid, i + 1, maxr, j + 1, maxc);
                 if (a > 0 && b > 0 && c > 0)
                     ans = Math.min(ans, a + b + c);
             }
         }
 
-        // 6. right vertical + left horizontal split
-        for (int j = 0; j < n - 1; j++) {       // col cut
-            for (int i = 0; i < m - 1; i++) {   // row cut
-                int a = helper(grid, 0, m - 1, j + 1, n - 1); 
-                int b = helper(grid, 0, i, 0, j);             
-                int c = helper(grid, i + 1, m - 1, 0, j);    
+        for (int j = minc; j < maxc; j++) {
+            for (int i = minr; i < maxr; i++) {
+                int a = helper(grid, minr, maxr, j + 1, maxc);
+                int b = helper(grid, minr, i, minc, j);
+                int c = helper(grid, i + 1, maxr, minc, j);
                 if (a > 0 && b > 0 && c > 0)
                     ans = Math.min(ans, a + b + c);
             }
@@ -73,7 +81,6 @@ class Solution {
         return ans;
     }
 
-   
     private int helper(int[][] grid, int r1, int r2, int c1, int c2) {
         int minr = r2, maxr = r1, minc = c2, maxc = c1;
         boolean found = false;
@@ -90,7 +97,7 @@ class Solution {
             }
         }
 
-        if (!found) return 0; 
+        if (!found) return 0;
         return (maxr - minr + 1) * (maxc - minc + 1);
     }
 }
