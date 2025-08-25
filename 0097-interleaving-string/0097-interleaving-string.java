@@ -9,7 +9,7 @@ class Solution {
         return dfs(0, 0, s1, s2, s3, dp);
     }
 
-
+// dp is only used when the same (i, j) state is revisited.
 
     private Boolean dfs(int i , int j , String s1  , String s2 , String s3 , Boolean[][] dp)
     {
