@@ -10,17 +10,17 @@ class Solution {
         
         List<Integer> result = new ArrayList<>();
 
-        boolean isNumber = true;
-        for (char c : expression.toCharArray()) {
-            if (!Character.isDigit(c)) {
-                isNumber = false;
-                break;
-            }
-        }
-        if (isNumber) {
-            result.add(Integer.parseInt(expression));
-            return result;
-        }
+        // boolean isNumber = true;
+        // for (char c : expression.toCharArray()) {
+        //     if (!Character.isDigit(c)) {
+        //         isNumber = false;
+        //         break;
+        //     }
+        // }
+        // if (isNumber) {
+        //     result.add(Integer.parseInt(expression));
+        //     return result;
+        // }
         
         for (int i = 0; i < expression.length(); i++) {
             char c = expression.charAt(i);
@@ -40,9 +40,9 @@ class Solution {
             }
         }
       
-        // if (result.isEmpty()) {
-        //     result.add(Integer.parseInt(expression));
-        // }
+        if (result.isEmpty()) {
+            result.add(Integer.parseInt(expression));
+        }
         
         memo.put(expression, result);
         return result;
