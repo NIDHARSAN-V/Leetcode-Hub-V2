@@ -1,6 +1,26 @@
 class Solution {
+    private Map<String, List<Integer>> memo = new HashMap<>();
+    
     public List<Integer> diffWaysToCompute(String expression) {
+
+        if (memo.containsKey(expression)) {
+            return memo.get(expression);
+        }
+
+        
         List<Integer> result = new ArrayList<>();
+
+        boolean isNumber = true;
+        for (char c : expression.toCharArray()) {
+            if (!Character.isDigit(c)) {
+                isNumber = false;
+                break;
+            }
+        }
+        if (isNumber) {
+            result.add(Integer.parseInt(expression));
+            return result;
+        }
         
         for (int i = 0; i < expression.length(); i++) {
             char c = expression.charAt(i);
@@ -9,8 +29,7 @@ class Solution {
                
                 List<Integer> left = diffWaysToCompute(expression.substring(0, i));
                 List<Integer> right = diffWaysToCompute(expression.substring(i + 1));
-                
-                
+               
                 for (int l : left) {
                     for (int r : right) {
                         if (c == '+') result.add(l + r);
@@ -20,12 +39,12 @@ class Solution {
                 }
             }
         }
+      
+        // if (result.isEmpty()) {
+        //     result.add(Integer.parseInt(expression));
+        // }
         
-       
-        if (result.isEmpty()) {
-            result.add(Integer.parseInt(expression));
-        }
-        
+        memo.put(expression, result);
         return result;
     }
 }
