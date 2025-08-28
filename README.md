@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3748-sort-matrix-by-diagonals](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3799-unique-3-digit-even-numbers) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3321-type-of-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3321-type-of-triangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search Tree
 |  |
 | ------- |
