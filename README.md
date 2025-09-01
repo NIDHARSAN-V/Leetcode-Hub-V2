@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1917-maximum-average-pass-ratio](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1917-maximum-average-pass-ratio) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0407-trapping-rain-water-ii) |
 | [0692-top-k-frequent-words](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0692-top-k-frequent-words) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1917-maximum-average-pass-ratio](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Monotonic Stack
 |  |
