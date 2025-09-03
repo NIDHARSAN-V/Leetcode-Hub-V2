@@ -1,43 +1,40 @@
+import java.util.*;
 
 class Solution {
     int max = 0;
+    Map<String, Integer> memo = new HashMap<>(); 
+
     public int longestZigZag(TreeNode root) {
+        if (root == null) return 0;
 
-         if(root == null)
-         {
-            return 0;
-         }
+        helper(root, 0, 0); 
+        helper(root, 0, 1); 
 
-         helper(root.left , 1 , 0);
-         helper(root.right , 1 , 1);
+        longestZigZag(root.left);
+        longestZigZag(root.right);
+        
 
-
-    
-         return max;
-         
+        return max-1;
     }
 
+    private int helper(TreeNode node, int parentDir, int dir) {
+        if (node == null) return 0;
 
-    private void helper(TreeNode root , int count , int dir )
-    {
-           if(root == null)
-           {
-            return ;
-           }
-           
-           max = Math.max(max , count);
+        String key = node.hashCode() + "-" + dir;
+        if (memo.containsKey(key)) return memo.get(key);
 
-           if(dir == 0)
-           {
-              helper(root.right , count + 1  , 1);
-              helper(root.left , 1 , 0);
-           }
-           else
-           {
-             helper(root.left , count + 1  , 0);
-             helper(root.right , 1 , 1);
-           }
+        int res;
+        if (dir == 0) {
+            
+            res = 1 + helper(node.left, dir, 1);
+        } else {
+            
+            res = 1 + helper(node.right, dir, 0);
+        }
 
-           return;
+        max = Math.max(max, res);
+        memo.put(key, res);
+
+        return res;
     }
 }
