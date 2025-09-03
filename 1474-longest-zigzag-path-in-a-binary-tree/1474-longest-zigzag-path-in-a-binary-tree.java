@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     int max = 0;
     Map<String, Integer> memo = new HashMap<>(); 
@@ -7,8 +5,8 @@ class Solution {
     public int longestZigZag(TreeNode root) {
         if (root == null) return 0;
 
-        helper(root, 0, 0); 
-        helper(root, 0, 1); 
+        helper(root,  0); 
+        helper(root,  1); 
 
         longestZigZag(root.left);
         longestZigZag(root.right);
@@ -17,7 +15,7 @@ class Solution {
         return max-1;
     }
 
-    private int helper(TreeNode node, int parentDir, int dir) {
+    private int helper(TreeNode node, int dir) {
         if (node == null) return 0;
 
         String key = node.hashCode() + "-" + dir;
@@ -26,10 +24,10 @@ class Solution {
         int res;
         if (dir == 0) {
             
-            res = 1 + helper(node.left, dir, 1);
+            res = 1 + helper(node.left, 1);
         } else {
             
-            res = 1 + helper(node.right, dir, 0);
+            res = 1 + helper(node.right, 0);
         }
 
         max = Math.max(max, res);
