@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3790-fruits-into-baskets-ii) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2685-first-completely-painted-row-or-column) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3790-fruits-into-baskets-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
