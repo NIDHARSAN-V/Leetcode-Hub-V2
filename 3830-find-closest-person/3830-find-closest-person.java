@@ -3,11 +3,12 @@ class Solution {
         
         int min  = 1;
         int cur  = Math.abs(x-z);
-        if(cur == Math.abs(y-z))
+        int yd = Math.abs(y-z);
+        if(cur == yd)
         {
             min =0;
         }
-        else if(cur > Math.abs(y-z))
+        else if(cur > yd)
         {
             min =2;
         }
