@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0070-climbing-stairs) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0046-permutations) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
