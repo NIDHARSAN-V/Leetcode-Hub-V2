@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3678-design-task-manager](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3799-unique-3-digit-even-numbers) |
 ## Tree
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3678-design-task-manager) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0838-design-linked-list) |
 | [2429-design-a-food-rating-system](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3678-design-task-manager) |
 ## Iterator
 |  |
 | ------- |
@@ -961,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3790-fruits-into-baskets-ii) |
 ## Bucket Sort
 |  |
