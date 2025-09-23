@@ -19,7 +19,7 @@ class Solution {
         }
 
        
-        // Collections.reverse(res);
+       
 
 
         int[] result = new int[numCourses];
