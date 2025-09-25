@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1386-shift-2d-grid) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1386-shift-2d-grid) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1628-count-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
