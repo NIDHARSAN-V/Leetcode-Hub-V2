@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2429-design-a-food-rating-system) |
