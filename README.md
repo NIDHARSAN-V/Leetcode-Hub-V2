@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Greedy
