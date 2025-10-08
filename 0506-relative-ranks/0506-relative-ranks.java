@@ -4,7 +4,12 @@ class Solution {
         String[] res = new String[n];
 
         
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[0] - a[0]);
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> {
+            if (b[0] > a[0]) return 1;    
+            else if (b[0] < a[0]) return -1;
+            else return 0;
+        });
+
 
        
         for (int i = 0; i < n; i++) {
