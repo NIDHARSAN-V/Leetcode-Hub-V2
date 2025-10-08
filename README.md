@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0494-target-sum) |
+| [0506-relative-ranks](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0594-longest-harmonious-subsequence) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0407-trapping-rain-water-ii) |
+| [0506-relative-ranks](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0692-top-k-frequent-words) |
 | [0794-swim-in-rising-water](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
