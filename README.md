@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2825-minimize-string-length) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3678-design-task-manager](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search Tree
 |  |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
 |  |
@@ -803,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
@@ -874,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Indexed Tree
 |  |
