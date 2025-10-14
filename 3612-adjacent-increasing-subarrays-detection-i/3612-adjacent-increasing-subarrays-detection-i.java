@@ -19,7 +19,7 @@ class Solution {
 
         for(int i = 0 ; i<n ; i++)
         {
-            System.out.print(freq[i]+" ");
+            
             if(freq[i]>=k && (i+k) < n && freq[i+k]>=k)
             {
                 return true;
