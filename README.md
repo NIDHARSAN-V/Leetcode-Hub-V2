@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1236-n-th-tribonacci-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1236-n-th-tribonacci-number) |
+| [1289-day-of-the-week](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1289-day-of-the-week) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1448-maximum-69-number) |
