@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0419-battleships-in-a-board) |
+| [0566-reshape-the-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0794-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0861-flipping-an-image) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0289-game-of-life) |
+| [0566-reshape-the-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0921-spiral-matrix-iii) |
