@@ -11,9 +11,9 @@ class Solution {
             int rb = nums[i] + k ;
 
             
-            nums[i] = Math.max(lb , next);
+            nums[i] = Math.max(lb , next); // check for the max value  --> next is the boundary 
             
-            if(nums[i] <= rb)
+            if(nums[i] <= rb) // multiple value with same value 2*k times
             {
                 res++;
                 next =  nums[i] + 1;
