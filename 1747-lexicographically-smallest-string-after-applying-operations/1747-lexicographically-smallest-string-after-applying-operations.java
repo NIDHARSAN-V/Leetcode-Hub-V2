@@ -1,5 +1,8 @@
+import java.util.*;
+
 class Solution {
     String result;
+    Map<String, String> dp = new HashMap<>();
 
     public String findLexSmallestString(String s, int a, int b) {
         result = s;
@@ -8,14 +11,34 @@ class Solution {
         return result;
     }
 
-    private void dfs(String s, int a, int b, Set<String> visited) {
-        if (visited.contains(s)) return; 
+    private String dfs(String s, int a, int b, Set<String> visited) {
+        // If we already computed min for this string, return it
+        if (dp.containsKey(s)) return dp.get(s);
+
+        // If visited, return the string itself (avoid infinite recursion)
+        if (visited.contains(s)) return s;
+
         visited.add(s);
 
-        if (s.compareTo(result) < 0) result = s;
+        // Initialize current minimum as itself
+        String minVal = s;
 
-        dfs(addToOddIndices(s, a), a, b, visited);
-        dfs(rotateRight(s, b), a, b, visited);
+        // Operation 1: Add 'a' to odd indices
+        String added = addToOddIndices(s, a);
+        String min1 = dfs(added, a, b, visited);
+        if (min1.compareTo(minVal) < 0) minVal = min1;
+
+        // Operation 2: Rotate right by b
+        String rotated = rotateRight(s, b);
+        String min2 = dfs(rotated, a, b, visited);
+        if (min2.compareTo(minVal) < 0) minVal = min2;
+
+        // Update global result
+        if (minVal.compareTo(result) < 0) result = minVal;
+
+        // Store in dp
+        dp.put(s, minVal);
+        return minVal;
     }
 
     private String addToOddIndices(String s, int a) {
