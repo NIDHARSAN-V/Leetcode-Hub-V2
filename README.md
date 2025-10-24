@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2792-neighboring-bitwise-xor) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2685-first-completely-painted-row-or-column) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
