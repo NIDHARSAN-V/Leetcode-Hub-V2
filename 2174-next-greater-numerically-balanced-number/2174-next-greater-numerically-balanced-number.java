@@ -1,4 +1,5 @@
 class Solution {
+    
     int res = Integer.MIN_VALUE;
     public int nextBeautifulNumber(int n) 
     {
