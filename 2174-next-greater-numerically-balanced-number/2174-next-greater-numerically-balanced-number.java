@@ -1,25 +1,40 @@
 class Solution {
-    
-    int res = Integer.MIN_VALUE;
-    public int nextBeautifulNumber(int n) 
-    {
-        int x = n + 1;
-        while (true) {
-            if (isBalanced(x)) return x;
-            x++;
-        }
-       
+    public int nextBeautifulNumber(int n) {
+        int maxlen = String.valueOf(n).length();
+        maxlen++;
+        PriorityQueue<Integer> pq = new PriorityQueue<>(); 
+        helper(n, 0, pq, maxlen, new int[10]);
+
+        return pq.isEmpty() ? -1 : pq.peek(); 
     }
 
-   boolean isBalanced(int num) {
-        int[] freq = new int[10];
-        char[] arr = String.valueOf(num).toCharArray();
-        for (char c : arr) freq[c - '0']++;
+    public void helper(int n, int num, PriorityQueue<Integer> pq, int maxlen, int[] freq) {
+        
+        if (num != 0 && num > n && balanced(freq)) {
+            pq.offer(num);
+        }
 
-        for (int i = 0; i < 10; i++) {
-            if (freq[i] > 0 && freq[i] != i) return false;
+        
+        if (String.valueOf(num).length() > maxlen || num > 1223333) {
+            return;
+        }
+
+        
+        for (int i = 1; i <= 7; i++) {
+            if(freq[i] < i)
+            {
+
+            freq[i]++;
+            helper(n, num * 10 + i, pq, maxlen, freq);
+            freq[i]--;
+            }
+        }
+    }
+
+    private boolean balanced(int[] count) {
+        for (int d = 1; d <= 7; d++) {
+            if (count[d] != 0 && count[d] != d) return false;
         }
         return true;
     }
-
 }
