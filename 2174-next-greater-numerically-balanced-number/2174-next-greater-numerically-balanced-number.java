@@ -1,17 +1,16 @@
 class Solution {
-    public int nextBeautifulNumber(int n) {
-        int maxlen = String.valueOf(n).length();
-        maxlen++;
-        PriorityQueue<Integer> pq = new PriorityQueue<>(); 
-        helper(n, 0, pq, maxlen, new int[10]);
+    int res = Integer.MAX_VALUE; 
 
-        return pq.isEmpty() ? -1 : pq.peek(); 
+    public int nextBeautifulNumber(int n) {
+        int maxlen = String.valueOf(n).length() + 1;
+        helper(n, 0, maxlen, new int[10]);
+        return res;
     }
 
-    public void helper(int n, int num, PriorityQueue<Integer> pq, int maxlen, int[] freq) {
+    public void helper(int n, int num, int maxlen, int[] freq) {
         
-        if (num != 0 && num > n && balanced(freq)) {
-            pq.offer(num);
+        if (num > n && balanced(freq)) {
+            res = Math.min(res, num);
         }
 
         
@@ -21,12 +20,10 @@ class Solution {
 
         
         for (int i = 1; i <= 7; i++) {
-            if(freq[i] < i)
-            {
-
-            freq[i]++;
-            helper(n, num * 10 + i, pq, maxlen, freq);
-            freq[i]--;
+            if (freq[i] < i) { 
+                freq[i]++;
+                helper(n, num * 10 + i, maxlen, freq);
+                freq[i]--;
             }
         }
     }
