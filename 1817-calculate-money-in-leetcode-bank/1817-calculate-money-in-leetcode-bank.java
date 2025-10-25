@@ -1,21 +1,14 @@
 class Solution {
     public int totalMoney(int n) {
-        int ini = 1;   
-        int i_i = ini; 
+        int weekStart = 1;  
         int res = 0;
-        int i = 0;   
 
-        while (n != 0) {
-            res += ini;
-            ini++;
-            i++;
-            n--;
+        while (n > 0) {
+            int days = Math.min(n, 7); 
+            res += days * (2 * weekStart + (days - 1)) / 2;
 
-        
-            if (i % 7 == 0) {
-                i_i++;
-                ini = i_i;
-            }
+            n -= 7;           
+            weekStart++;      
         }
 
         return res;
