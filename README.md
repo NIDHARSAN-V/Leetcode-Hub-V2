@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1105-uncrossed-lines](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1105-uncrossed-lines) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-string-without-aaa-or-bbb](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1026-string-without-aaa-or-bbb) |
 | [1033-broken-calculator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1033-broken-calculator) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
