@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0033-search-in-rotated-sorted-array) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0071-simplify-path) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0692-top-k-frequent-words) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
