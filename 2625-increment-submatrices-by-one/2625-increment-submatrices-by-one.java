@@ -1,9 +1,7 @@
 class Solution {
-    public int[][] res;
-
     public int[][] rangeAddQueries(int n, int[][] queries) {
-        
-        res = new int[n][n];  
+
+        int[][] diff = new int[n][n];
 
         for (int[] q : queries) {
             int r1 = q[0];
@@ -11,13 +9,27 @@ class Solution {
             int r2 = q[2];
             int c2 = q[3];
 
-            for (int i = r1; i <= r2; i++) {
-                for (int j = c1; j <= c2; j++) {
-                    res[i][j] += 1;   
-                }
+            diff[r1][c1] += 1;
+            if (c2 + 1 < n) diff[r1][c2 + 1] -= 1;
+            if (r2 + 1 < n) diff[r2 + 1][c1] -= 1;
+            if (r2 + 1 < n && c2 + 1 < n) diff[r2 + 1][c2 + 1] += 1;
+        }
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 1; j < n; j++) {
+                diff[i][j] += diff[i][j - 1];
             }
         }
 
-        return res;
+        for (int j = 0; j < n; j++) {
+            for (int i = 1; i < n; i++) {
+                diff[i][j] += diff[i - 1][j];
+            }
+        }
+
+       
+        
+
+        return diff;
     }
 }
