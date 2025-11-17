@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1610-xor-operation-in-an-array) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1542-consecutive-characters) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1660-thousand-separator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1720-crawler-log-folder) |
