@@ -1,20 +1,17 @@
 class Solution {
     public int numSub(String s) {
-        
-        long res = 0;
-        long count = 0;
-        long mod = 1000000007;
-
-        for(int i = 0; i < s.length(); i++)
-        {
-            if(s.charAt(i) == '1') {
-                count++;
-                res = (res + count) % mod;
-            } else {
-                count = 0;
-            }
-        }
-
-        return (int)res;
-    }
+		char[] chars = s.toCharArray();
+		long ans = 0, count = 0;
+		for (char c : chars) {
+			if (c == '1') {
+				count++;
+			} else {
+                //sum of 1 to n formula
+				ans += count * (count + 1) / 2;
+				count = 0;
+			}
+		}
+		ans += count * (count + 1) / 2;
+		return (int) (ans % 1000000007);
+	}
 }
