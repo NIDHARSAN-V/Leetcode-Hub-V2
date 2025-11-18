@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0745-find-smallest-letter-greater-than-target) |
