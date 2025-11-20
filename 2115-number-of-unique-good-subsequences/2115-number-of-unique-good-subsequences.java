@@ -1,19 +1,18 @@
 class Solution {
-    public int numberOfUniqueGoodSubsequences(String input) {
-        int constant = (int) 1e9 + 7;
-        int zeroEnd = 0;
-        int oneEnd = 0;
-        int flagZero = 0;
+    public int numberOfUniqueGoodSubsequences(String binary) {
+        long dp0 = 0, dp1 = 0;
+        boolean hasZero = false;
+        long mod = 1_000_000_007;
 
-        for (int idx = 0; idx < input.length(); idx++) {
-            if (input.charAt(idx) == '0') {
-                zeroEnd = (zeroEnd + oneEnd) % constant;
-                flagZero = 1;
+        for (char c : binary.toCharArray()) {
+            if (c == '1') {
+                dp1 = (dp0 + dp1 + 1) % mod;
             } else {
-                oneEnd = (zeroEnd + oneEnd + 1) % constant;
+                hasZero = true;
+                dp0 = (dp0 + dp1) % mod;
             }
         }
 
-        return (zeroEnd + oneEnd + flagZero) % constant;
+        return (int)((dp0 + dp1 + (hasZero ? 1 : 0)) % mod);
     }
 }
