@@ -9,7 +9,7 @@ class Solution {
                 dp1 = (dp0 + dp1 + 1) % mod;
             } else {
                 hasZero = true;
-                dp0 = (dp0 + dp1) % mod;
+                dp0 += dp1 % mod;
             }
         }
 
