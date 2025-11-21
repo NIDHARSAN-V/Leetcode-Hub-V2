@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3799-unique-3-digit-even-numbers) |
+| [4112-maximize-expression-of-three-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/4112-maximize-expression-of-three-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3748-sort-matrix-by-diagonals) |
+| [4112-maximize-expression-of-three-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/4112-maximize-expression-of-three-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4112-maximize-expression-of-three-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/4112-maximize-expression-of-three-elements) |
 ## Stack
 |  |
 | ------- |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3799-unique-3-digit-even-numbers) |
+| [4112-maximize-expression-of-three-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/4112-maximize-expression-of-three-elements) |
 ## Database
 |  |
 | ------- |
