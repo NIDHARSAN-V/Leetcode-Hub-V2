@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0476-number-complement) |
