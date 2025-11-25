@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0198-house-robber) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0455-assign-cookies) |
@@ -955,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0900-reordered-power-of-2) |
@@ -1056,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0190-reverse-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 ## Enumeration
