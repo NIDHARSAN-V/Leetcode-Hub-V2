@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0921-spiral-matrix-iii) |
 | [1386-shift-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1386-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1441-build-an-array-with-stack-operations) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1628-count-submatrices-with-all-ones) |
 | [1666-make-the-string-great](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1720-crawler-log-folder) |
