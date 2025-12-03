@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0794-swim-in-rising-water) |
+| [0812-largest-triangle-area](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0812-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0861-flipping-an-image) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0523-continuous-subarray-sum) |
+| [0812-largest-triangle-area](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0812-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1018-largest-perimeter-triangle) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0223-rectangle-area) |
+| [0812-largest-triangle-area](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0812-largest-triangle-area) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Doubly-Linked List
