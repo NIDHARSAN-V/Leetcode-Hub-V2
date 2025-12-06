@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2169-count-operations-to-obtain-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2169-count-operations-to-obtain-zero) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2050-count-good-numbers) |
+| [2169-count-operations-to-obtain-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2169-count-operations-to-obtain-zero) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2324-find-triangular-sum-of-an-array) |
