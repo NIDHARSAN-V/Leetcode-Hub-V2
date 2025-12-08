@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2792-neighboring-bitwise-xor) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-number-of-unique-good-subsequences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2115-number-of-unique-good-subsequences) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
