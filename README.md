@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1610-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2050-count-good-numbers) |
 | [2169-count-operations-to-obtain-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2169-count-operations-to-obtain-zero) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0900-reordered-power-of-2) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1925-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2174-next-greater-numerically-balanced-number) |
