@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0518-coin-change-ii) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1013,10 +1015,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
@@ -1096,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0190-reverse-bits) |
+| [0493-reverse-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0493-reverse-pairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 ## Enumeration
 |  |
@@ -1182,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3790-fruits-into-baskets-ii) |
@@ -1217,4 +1223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3227-vowels-game-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
