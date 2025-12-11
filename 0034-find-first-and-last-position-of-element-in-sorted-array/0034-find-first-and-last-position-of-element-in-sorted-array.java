@@ -1,29 +1,43 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] result = new int[2];
-        result[0] = findFirst(nums, target , 0);
-        result[1] = findFirst(nums, target ,1);
-        return result;
+        int x = bin(nums , target , true);
+        int y = bin(nums , target , false);
+        return new int[]{x , y};
     }
-    
-    private int findFirst(int[] nums, int target , int x) {
-        int left = 0, right = nums.length - 1;
-        int index = -1; 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] == target) {
-                index = mid; 
-                if(x==0)
-                  right = mid - 1;
-                else if(x==1)
-                  left = mid+1; 
-            } else if (nums[mid] < target) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
+
+    private int bin(int[] nums , int t , boolean first)
+    {
+        int i = -1;
+        int l = 0;
+        int r = nums.length-1;
+
+        while(l  <=  r)
+        {
+            int mid = l + (r-l)/2;
+
+
+            if(nums[mid] == t)
+            {
+                i = mid;
+
+                if(first)
+                {
+                    r = mid - 1;
+                }
+                else
+                {
+                    l = mid + 1;
+                }
+            }
+            else if(nums[mid] > t)
+            {
+                r = mid -1;
+            }
+            else
+            {
+                l = mid + 1;
             }
         }
-        return index;
+        return i;
     }
-    
 }
