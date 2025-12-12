@@ -12,9 +12,9 @@ class Solution {
                 return true;
             }
 
-            if(nums[mid] == nums[l])
+            if(nums[mid] == nums[r])
             {
-                l++;
+                r--;
                 continue;
             }
             
