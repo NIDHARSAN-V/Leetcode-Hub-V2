@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0861-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0921-spiral-matrix-iii) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0853-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0875-koko-eating-bananas) |
 | [0933-increasing-order-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1427-all-elements-in-two-binary-search-trees) |
