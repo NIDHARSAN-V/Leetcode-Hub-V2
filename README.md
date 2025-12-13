@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0278-first-bad-version) |
