@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1753-path-with-minimum-effort) |
