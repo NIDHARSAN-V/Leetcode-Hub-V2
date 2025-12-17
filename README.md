@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1129-longest-string-chain) |
 | [1241-decompress-run-length-encoded-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1241-decompress-run-length-encoded-list) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0875-koko-eating-bananas) |
 | [0933-increasing-order-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
