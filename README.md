@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1022-unique-paths-iii) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0853-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0875-koko-eating-bananas) |
 | [0933-increasing-order-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0933-increasing-order-search-tree) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1427-all-elements-in-two-binary-search-trees) |
