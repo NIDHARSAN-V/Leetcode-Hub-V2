@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0944-delete-columns-to-make-sorted](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0978-valid-mountain-array) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0857-positions-of-large-groups) |
 | [0886-score-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0953-reverse-only-letters) |
 | [1026-string-without-aaa-or-bbb](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1026-string-without-aaa-or-bbb) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1045-check-if-word-is-valid-after-substitutions) |
