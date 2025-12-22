@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0113-path-sum-ii) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0113-path-sum-ii) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0113-path-sum-ii) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0162-find-peak-element) |
