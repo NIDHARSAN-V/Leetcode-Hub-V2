@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1917-maximum-average-pass-ratio) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2105-watering-plants-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2105-watering-plants-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1386-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1441-build-an-array-with-stack-operations) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2105-watering-plants-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2105-watering-plants-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2169-count-operations-to-obtain-zero) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1129-longest-string-chain) |
 | [1454-remove-palindromic-subsequences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1454-remove-palindromic-subsequences) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2105-watering-plants-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2320-find-all-k-distant-indices-in-an-array) |
