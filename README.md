@@ -736,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0402-remove-k-digits) |
 | [0468-validate-ip-address](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0520-detect-capital) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0611-valid-triangle-number) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0886-score-of-parentheses) |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1628-count-submatrices-with-all-ones) |
