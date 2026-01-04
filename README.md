@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1386-shift-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1386-shift-2d-grid) |
+| [1390-four-divisors](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1390-four-divisors) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1236-n-th-tribonacci-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1236-n-th-tribonacci-number) |
 | [1289-day-of-the-week](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1289-day-of-the-week) |
+| [1390-four-divisors](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
