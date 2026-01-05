@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1975-maximum-matrix-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2105-watering-plants-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2105-watering-plants-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1628-count-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1753-path-with-minimum-effort) |
+| [1975-maximum-matrix-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1975-maximum-matrix-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2145-grid-game](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1975-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
