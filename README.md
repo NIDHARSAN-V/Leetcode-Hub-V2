@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3637-trionic-array-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3637-trionic-array-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
