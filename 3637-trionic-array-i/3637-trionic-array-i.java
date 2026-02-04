@@ -3,24 +3,25 @@ class Solution {
         int n = nums.length;
         if (n < 3) return false;
 
-        int x = n - 1;
-        int y = 0;
+        int x = -1;
+        int y = -1;
 
         for (int i = 0; i < n - 1; i++) {
 
-            if (x == n - 1 && nums[i] >= nums[i + 1]) {
+            if (x == -1 && nums[i] >= nums[i + 1]) {
                 x = i;
             }
 
-            if (y == 0 && nums[n - 1 - i] <= nums[n - 2 - i]) {
+            if (y == -1 && nums[n - 1 - i] <= nums[n - 2 - i]) {
                 y = n - 1 - i;
             }
 
-            if (x != n - 1 && y != 0) {
+            if (x != -1 && y != -1) {
                 break;
             }
         }
 
+        if (x == -1 || y == -1) return false;
         if (x >= y) return false;
         if (x == 0 || y == n - 1) return false;
 
