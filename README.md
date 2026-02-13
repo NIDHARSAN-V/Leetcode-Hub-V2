@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3678-design-task-manager) |
+| [3713-longest-balanced-substring-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3799-unique-3-digit-even-numbers) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3396-valid-word) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3617-find-the-original-typed-string-i) |
+| [3713-longest-balanced-substring-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3713-longest-balanced-substring-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1208,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3713-longest-balanced-substring-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3713-longest-balanced-substring-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3799-unique-3-digit-even-numbers) |
 | [4112-maximize-expression-of-three-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/4112-maximize-expression-of-three-elements) |
 ## Database
