@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3799-unique-3-digit-even-numbers) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3617-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
@@ -1156,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3719-longest-balanced-subarray-i) |
 ## Recursion
 |  |
