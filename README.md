@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2429-design-a-food-rating-system](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2429-design-a-food-rating-system) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2429-design-a-food-rating-system) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2825-minimize-string-length](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2825-minimize-string-length) |
 | [2887-sort-vowels-in-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2887-sort-vowels-in-a-string) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3455-minimum-length-of-string-after-operations) |
