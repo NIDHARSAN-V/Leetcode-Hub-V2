@@ -785,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0742-to-lower-case) |
+| [0761-special-binary-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0761-special-binary-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0841-shortest-distance-to-a-character) |
 | [0857-positions-of-large-groups](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0857-positions-of-large-groups) |
 | [0886-score-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0886-score-of-parentheses) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0692-top-k-frequent-words) |
+| [0761-special-binary-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0761-special-binary-string) |
 | [0853-most-profit-assigning-work](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0853-most-profit-assigning-work) |
 | [0900-reordered-power-of-2](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0917-boats-to-save-people) |
@@ -1201,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0761-special-binary-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3719-longest-balanced-subarray-i) |
