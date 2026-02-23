@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0526-beautiful-arrangement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0523-continuous-subarray-sum) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0900-reordered-power-of-2) |
