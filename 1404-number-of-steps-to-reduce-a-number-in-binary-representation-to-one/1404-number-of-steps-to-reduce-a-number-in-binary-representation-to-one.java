@@ -17,6 +17,7 @@ class Solution {
            }
         }
 
+//for msb
         return ans + carry;
     }
 }
