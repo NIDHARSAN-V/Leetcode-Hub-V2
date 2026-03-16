@@ -24,26 +24,22 @@ class Solution {
         {
             char ch = (char)('a' + i);
 
-            s.append(ch);
-
-            if(check(s))
+            if(check(s, ch))
             {
+                s.append(ch);
                 helper(res, s, n);
+                s.deleteCharAt(s.length() - 1);
             }
-
-            s.deleteCharAt(s.length() - 1);
         }
     }
 
-    private boolean check(StringBuilder sb)
+    private boolean check(StringBuilder sb, char ch)
     {
-        for(int i = 1; i < sb.length(); i++)
-        {
-            if(sb.charAt(i - 1) == sb.charAt(i))
-            {
-                return false;
-            }
-        }
+        if(sb.length() == 0)
+            return true;
+
+        if(sb.charAt(sb.length() - 1) == ch)
+            return false;
 
         return true;
     }
