@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2792-neighboring-bitwise-xor) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2625-increment-submatrices-by-one) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2685-first-completely-painted-row-or-column) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-vowels-game-in-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3227-vowels-game-in-a-string) |
