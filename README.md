@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2825-minimize-string-length) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2825-minimize-string-length](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2825-minimize-string-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2887-sort-vowels-in-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3227-vowels-game-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3074-apple-redistribution-into-boxes) |
