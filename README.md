@@ -1282,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0619-biggest-single-number) |
 | [0627-swap-salary](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0627-swap-salary) |
 | [1045-customers-who-bought-all-products](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1045-customers-who-bought-all-products) |
+| [1070-product-sales-analysis-iii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1070-product-sales-analysis-iii) |
 | [1164-product-price-at-a-given-date](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1164-product-price-at-a-given-date) |
 | [1179-game-play-analysis-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1179-game-play-analysis-i) |
 | [1541-top-travellers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1541-top-travellers) |
