@@ -9,4 +9,5 @@ SELECT
     quantity,
     price
 FROM sample
-WHERE year = first_year;
+WHERE year = first_year
+order by first_year;
