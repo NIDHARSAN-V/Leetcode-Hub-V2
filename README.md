@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3637-trionic-array-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3637-trionic-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3719-longest-balanced-subarray-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3719-longest-balanced-subarray-i) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3790-fruits-into-baskets-ii) |
@@ -1242,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0761-special-binary-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0954-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
