@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3321-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3714-longest-balanced-substring-ii) |
