@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1524-string-matching-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1628-count-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1753-path-with-minimum-effort) |
@@ -1403,4 +1407,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0130-surrounded-regions) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
