@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1472-increasing-decreasing-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1472-increasing-decreasing-string) |
 | [1500-count-largest-group](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1500-count-largest-group) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0594-longest-harmonious-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1813-maximum-erasure-value) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
