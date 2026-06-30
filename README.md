@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2063-vowels-of-all-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2063-vowels-of-all-substrings) |
 | [2115-number-of-unique-good-subsequences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2115-number-of-unique-good-subsequences) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2050-count-good-numbers) |
+| [2063-vowels-of-all-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2063-vowels-of-all-substrings) |
 | [2169-count-operations-to-obtain-zero](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2169-count-operations-to-obtain-zero) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2063-vowels-of-all-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2063-vowels-of-all-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2115-number-of-unique-good-subsequences](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2115-number-of-unique-good-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1399,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2063-vowels-of-all-substrings](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2063-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Game Theory
