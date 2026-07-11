@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2429-design-a-food-rating-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/0692-top-k-frequent-words) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NIDHARSAN-V/Leetcode-Hub-V2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
